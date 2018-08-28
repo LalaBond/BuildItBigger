@@ -48,5 +48,6 @@ dependencies {
 
     testImplementation 'junit:junit:4.12'
 
-    compile project (":jokeslibrary")
+    compile project (":jokeslibrary")//android library
+    compile project (":jokeslib")//java library 
 }

@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">JokesLibrary</string>
+    <string name="title_activity_jokes_al">JokesALActivity</string>
 </resources>
