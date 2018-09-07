@@ -20,7 +20,7 @@ import java.io.IOException;
  * Code retrieved from lamdbui https://github.com/GoogleCloudPlatform/gradle-appengine-templates
  */
 
-class EndpointsAsyncTask extends AsyncTask<Pair<Context, String>, Void, String> {
+public class EndpointsAsyncTask extends AsyncTask<Pair<Context, String>, Void, String> {
     private static MyApi myApiService = null;
     private Context context;
 
